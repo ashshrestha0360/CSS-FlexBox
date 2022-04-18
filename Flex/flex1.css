@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    margin: 5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    border: 2px dashed black;
+    border-radius: 7px;
+    background-color: lightcoral;
+}
+
